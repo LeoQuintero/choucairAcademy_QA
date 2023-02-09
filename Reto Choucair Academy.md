@@ -3,19 +3,8 @@
 > Ejercicio práctico para Analista QA
 > 
 
-📍 link :  [Choucair Academy](https://operacion.choucairtesting.com/academy/my/)
+📍 link de pruebas :  [Choucair Academy](https://operacion.choucairtesting.com/academy/my/)
 
-## Historio de Usuario
+[1. Historia de Usuario](Reto%20Choucair%20Academy%2067b3e82b563643beae2f1583d1888b33/1%20Historia%20de%20Usuario%20c53d3ff6a63c41f2943941598f2cde7d.md)
 
-| Clave | Consultar cursos existentes |
-| --- | --- |
-| Quien: | Analista de pruebas |
-| Que: | pueda consultar los cursos existentes |
-| Para que: | conocer el detalle del curso como la posibilidad de matricularme de acuerto a mis intereses |
-| #Criterios | Condiciones Criterios de Aceptación |
-| 1 | se debe proporcionar una lista de cursos acorde a la categoria seleccionada |
-| 2 | visualizar contenido del curso mínimo nobre y profesor que lo imparte |
-| 3  | la lista de cursos de verse por cuadricula de forma ordenada |
-| 4 | debe ser responsive durante todo el proceso de busqueda permitidiendo visualizar la información desde dispositivos móviles |
-| 5 | se debe proporcionar una ruta de navegacion que permita regresar a una pagina anterior, ejemplo: me encuentro en un curso y quiero regresar a la categoria |
-| 6 | el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos |
+[2. Plan de pruebas](Reto%20Choucair%20Academy%2067b3e82b563643beae2f1583d1888b33/2%20Plan%20de%20pruebas%20f174acfa62fd40e29d02387257bcf294.md)
