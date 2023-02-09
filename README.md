@@ -7,7 +7,7 @@ Choucair Testing S.A.S, requiere de nuestros servicios como analistas de pruebas
 3.	Realizar el curso
 
 ## Información final:
--La fecha de salida a producción está dada por la necesidad actual del cliente, deberá contar 15 días hábiles a partir de la entrega de este documento.
+- La fecha de salida a producción está dada por la necesidad actual del cliente, deberá contar 15 días hábiles a partir de la entrega de este documento.
 -	Se cuenta con 3 analistas de prueba para el proyecto. 
 -	Considerar que estas definiciones corresponden a la etapa de construcción del proceso de desarrollo del cliente.
 
