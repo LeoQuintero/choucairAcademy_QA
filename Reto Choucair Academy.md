@@ -101,58 +101,16 @@ Analista 3 CP Criterios 5 y 6 |
 
 | ID CASO PRUEBA | HISTORIA USUARIO | Criterio o Escenario | Nombre Caso Prueba | Objetivo | Precondiciones | Pasos | Status | Responsable |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CP001 | Consultar cursos existentes | 1. se debe proporcionar una lista de cursos acorde a la categoria seleccionada | Validar que exista la opción de visualizar las categorías | Visualizar las categorias | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. Verificar que se vean las categorias | En ejecución | Analista 1 |
-| CP002 | Consultar cursos existentes | 1. se debe proporcionar una lista de cursos acorde a la categoria seleccionada | Validar que los cursos escuela técnica sean acorde a la categoría | los curso mostrados de la escuela técnica son acorde a la categoría | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar categoría escuela técnica | Nuevo / pendiente | Analista 1 |
-| CP003 | Consultar cursos existentes | 1. se debe proporcionar una lista de cursos acorde a la categoria seleccionada | Validar que los cursos escuela corporativa sean acorde a la categoría | los curso mostrados de la escuela coporativa son acorde a la categoría | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 1 |
-| CP004 | Consultar cursos existentes | 2. visualizar contenido del curso mínimo nombre y profesor que lo imparte | Verificar contenido curso nombre profesor y nombre curso categoria escuela técnica | Se visuaizar el nombre curso y nombre profesor en los cursos de la categoria | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 1 |
-| CP005 | Consultar cursos existentes | 2. visualizar contenido del curso mínimo nombre y profesor que lo imparte | Verificar contenido curso nombre profesor y nombre curso categoria escuela de gerencia | Se visuaizar el nombre curso y nombre profesor en los cursos de la categoria | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 1 |
-| CP006 | Consultar cursos existentes | 3. la lista de cursos de verse por cuadricula de forma ordenada | Validar que la lista de cursos mantenga una estructura ordenada por cuadrícula | se visualizar de forma ordenada la lista de cursos manteniendo una estructura por cuadrícula | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 2 |
-| CP007 | Consultar cursos existentes | 3. la lista de cursos de verse por cuadricula de forma ordenada | Validar que la lista de cursos mantenga una estructura ordenada por cuadrícula | se visualizar de forma ordenada la lista de cursos manteniendo una estructura por cuadrícula | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 2 |
-| CP008 | Consultar cursos existentes | 4. debe ser responsive durante todo el proceso de busqueda permitidiendo visualizar la información desde dispositivos móviles | Validar visualización con mas dimensiones de un ¡Phone 12 Pro | se visualizar de forma ordenada la lista de cursos manteniendo una estructura ordenada | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa
-4. seleccionar un curso | Nuevo / pendiente | Analista 2 |
-| CP009 | Consultar cursos existentes | 5. se debe proporcionar una ruta de navegacion que permita regresar a una pagina anterior, ejemplo: me encuentro en un curso y quiero regresar a la categoria | Validar que se proporcione ruta navegación permitiendo a un estado anterior durante el proceso | permite regregresar a un estado anterior como categoria o pagina inicial | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. seleccionar escuela corporativa
-4. seleccionar un curso
-5. seleccionar en la ruta navegación pagina anterior categordía | Nuevo / pendiente | Analista 3 |
-| CP010 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar busqueda ingresando la palabra completa “Automatización” | permite visualizar cursos relacionados con la palabra ingresada | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. ingresar palabra en el inbox buscar curso | Nuevo / pendiente | Analista 3 |
-| CP011 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar caso no exitoso realizando la busqueda dejando vacio el inbox nombre curso | no permite visualizar ningun curso | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. ingresar palabra en el inbox buscar curso | Nuevo / pendiente | Analista 3 |
-| CP011 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar caso no exitoso realizando la busqueda con caracteres especiales el inbox nombre curso | no permite visualizar ningun curso | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. ingresar palabra en el inbox buscar curso | Nuevo / pendiente | Analista 3 |
-| CP011 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar busqueda curso ingresando parte del texto | permite visualizar cursos relacionados con parte del texto | - usuario
-- contraseña | 1. ingresar a Choucair Academy con usuario y contraseña
-2. seleccionar botón tarjeta Universidad Chouicar
-3. ingresar palabra en el inbox buscar curso | Fallido | Analista 3 |
+| CP001 | Consultar cursos existentes | 1. se debe proporcionar una lista de cursos acorde a la categoria seleccionada | Validar que exista la opción de visualizar las categorías | Visualizar las categorias | - usuario contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. Verificar que se vean las categorias | En ejecución | Analista 1 |
+| CP002 | Consultar cursos existentes | 1. se debe proporcionar una lista de cursos acorde a la categoria seleccionada | Validar que los cursos escuela técnica sean acorde a la categoría | los curso mostrados de la escuela técnica son acorde a la categoría | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar categoría escuela técnica | Nuevo / pendiente | Analista 1 |
+| CP003 | Consultar cursos existentes | 1. se debe proporcionar una lista de cursos acorde a la categoria seleccionada | Validar que los cursos escuela corporativa sean acorde a la categoría | los curso mostrados de la escuela coporativa son acorde a la categoría | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 1 |
+| CP004 | Consultar cursos existentes | 2. visualizar contenido del curso mínimo nombre y profesor que lo imparte | Verificar contenido curso nombre profesor y nombre curso categoria escuela técnica | Se visuaizar el nombre curso y nombre profesor en los cursos de la categoria | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 1 |
+| CP005 | Consultar cursos existentes | 2. visualizar contenido del curso mínimo nombre y profesor que lo imparte | Verificar contenido curso nombre profesor y nombre curso categoria escuela de gerencia | Se visuaizar el nombre curso y nombre profesor en los cursos de la categoria | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 1 |
+| CP006 | Consultar cursos existentes | 3. la lista de cursos de verse por cuadricula de forma ordenada | Validar que la lista de cursos mantenga una estructura ordenada por cuadrícula | se visualizar de forma ordenada la lista de cursos manteniendo una estructura por cuadrícula | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 2 |
+| CP007 | Consultar cursos existentes | 3. la lista de cursos de verse por cuadricula de forma ordenada | Validar que la lista de cursos mantenga una estructura ordenada por cuadrícula | se visualizar de forma ordenada la lista de cursos manteniendo una estructura por cuadrícula | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa | Nuevo / pendiente | Analista 2 |
+| CP008 | Consultar cursos existentes | 4. debe ser responsive durante todo el proceso de busqueda permitidiendo visualizar la información desde dispositivos móviles | Validar visualización con mas dimensiones de un ¡Phone 12 Pro | se visualizar de forma ordenada la lista de cursos manteniendo una estructura ordenada | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa 4. seleccionar un curso | Nuevo / pendiente | Analista 2 |
+| CP009 | Consultar cursos existentes | 5. se debe proporcionar una ruta de navegacion que permita regresar a una pagina anterior, ejemplo: me encuentro en un curso y quiero regresar a la categoria | Validar que se proporcione ruta navegación permitiendo a un estado anterior durante el proceso | permite regregresar a un estado anterior como categoria o pagina inicial | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. seleccionar escuela corporativa 4. seleccionar un curso 5. seleccionar en la ruta navegación pagina anterior categordía | Nuevo / pendiente | Analista 3 |
+| CP010 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar busqueda ingresando la palabra completa “Automatización” | permite visualizar cursos relacionados con la palabra ingresada | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. ingresar palabra en el inbox buscar curso | Nuevo / pendiente | Analista 3 |
+| CP011 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar caso no exitoso realizando la busqueda dejando vacio el inbox nombre curso | no permite visualizar ningun curso | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. ingresar palabra en el inbox buscar curso | Nuevo / pendiente | Analista 3 |
+| CP011 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar caso no exitoso realizando la busqueda con caracteres especiales el inbox nombre curso | no permite visualizar ningun curso | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. ingresar palabra en el inbox buscar curso | Nuevo / pendiente | Analista 3 |
+| CP011 | Consultar cursos existentes | 6. el buscador debe permitir busqueda por el texto ingresado, proporcionando la lista de cursos | Validar busqueda curso ingresando parte del texto | permite visualizar cursos relacionados con parte del texto | - usuario - contraseña | 1. ingresar a Choucair Academy con usuario y contraseña 2. seleccionar botón tarjeta Universidad Chouicar 3. ingresar palabra en el inbox buscar curso | Fallido | Analista 3 |
