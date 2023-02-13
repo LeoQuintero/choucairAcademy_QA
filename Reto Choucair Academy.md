@@ -95,7 +95,7 @@ Analista 3 CP Criterios 5 y 6 |
 # 3. Ejecución Casos de Prueba
 
 > **Funcionalidad: Consultar cursos existentes**
-> 
+> ## URL EVIDENCAI CASOS DE PRUEBA: https://choucairtesting-my.sharepoint.com/:f:/r/personal/equinteroc_choucairtesting_com/Documents/CHOUCAIR/ChoucairAcademy/2023/reto-metodologia/choucairAcademy_QA/evidencias?csf=1&web=1&e=Ed2bqU
 
 ## Casos de prueba:
 
